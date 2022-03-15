@@ -12,7 +12,7 @@ namespace WindowsFormsApplication1
 {
     public partial class Form2 : Form
     {
-        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-N86MPUU\SQLEXPRESS;User ID=sa;Password=fahad@123");
+        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-N86MPUU\SQLEXPRESS;User ID=sa;Password=*********");
         int a,b, total;
         public Form2()
         {
